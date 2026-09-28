@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvRowLabel"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:gravity="center"
+    android:text="10 seconds"
+    android:textColor="@color/text_secondary"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true" />
